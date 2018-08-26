@@ -8,7 +8,7 @@ email addresses specified.
 NOTE: DO NOT USE SMTP OF GMAIL (smtp.gmail.com) i.e. DO NOT USE YOUR GMAIL ADDRESS
 TO SEND NOTIFICATION TO THOSE TWO ADDRESSES, because Gmail will not allow to
 authenticate via the Python. Use other domains like your university email address
-which usually have less restrictions
+which usually has less server restrictions
 
 _-_-_-_-_-_-_-_-_- USAGE  _-_-_-_-_-_-_-_-_-
 
